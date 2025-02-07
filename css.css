@@ -86,7 +86,7 @@ nav menuitem {
     background: #ea5c0d;
     color:#FFF;
     min-width:190px;
-    transition: background 0.5s, color 0.5s, transform 0.5s;
+    transition: background 0.5s, color 0.5s, transform 0.3s;
     margin:0px 6px 6px 0px;
     padding:20px 40px;
     box-sizing:border-box;
